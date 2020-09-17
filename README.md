@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **prathamesh1499/prathamesh1499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,22 @@
 My name is Prathamesh Joshi and I'm a Computer Science student. 
 
 You can find me on [![LinkedIn][1.2]][1].
+
+## Tools & Languages: Worked on 
+
+![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
+![PyTorch](https://img.shields.io/badge/Pytorch-1.2-informational?style=flat&logo=PyTorch&logoColor=red&color=#FFFF00)
+![Swift](https://img.shields.io/badge/Swift-4-informational?style=flat&logo=Swift&logoColor=orange&color=#FFFF00)
+![HTML](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=orange&color=#FFFF00)
+![CSS](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=CSS3&logoColor=blue&color=#FFFF00)
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=#FFFFF0)
+
+![GoogleColab](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=orange&color=#FFFF00)
+![Juptyer](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=JuptyerNotebookt&logoColor=orange&color=#FFFF00)
+![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=Xcode10.14&logoColor=blue&color=#FFFF00)
+
+
 
 <!-- Icons -->
 
