@@ -7,7 +7,7 @@ My name is Prathamesh Joshi and I'm a Computer Science student.
 
 You can find me on [![LinkedIn][1.2]][1].
 
-## Tools & Languages: Worked on 
+## Languages/Frameworks/Tools : Worked on 
 
 ![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
