@@ -7,7 +7,7 @@ My name is Prathamesh Joshi and I'm a Computer Science student.
 
 You can find me on [![LinkedIn][1.2]][1].
 
-## Languages/Frameworks/Tools : Worked on 
+## Languages/Frameworks/Tools/Editors : Worked on 
 
 ![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
@@ -17,9 +17,10 @@ You can find me on [![LinkedIn][1.2]][1].
 ![CSS](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=CSS3&logoColor=blue&color=#FFFF00)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=#FFFFF0)
 
-![](https://img.shields.io/badge/Tool-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=orange&color=#FFFF00)
-![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=JuptyerNotebookt&logoColor=orange&color=#FFFF00)
-![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=Xcode10.14&logoColor=blue&color=#FFFF00)
+![](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=orange&color=#FFFF00)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=JupyterNotebookt&logoColor=orange&color=#FFFF00)
+![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=Xcode&logoColor=blue&color=#FFFF00)
+![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=VsCode&logoColor=blue&color=#FFFF00)
 
 
 
