@@ -17,9 +17,9 @@ You can find me on [![LinkedIn][1.2]][1].
 ![CSS](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=CSS3&logoColor=blue&color=#FFFF00)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=#FFFFF0)
 
-![GoogleColab](https://img.shields.io/badge/GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=orange&color=#FFFF00)
-![Juptyer](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=JuptyerNotebookt&logoColor=orange&color=#FFFF00)
-![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=Xcode10.14&logoColor=blue&color=#FFFF00)
+![](https://img.shields.io/badge/Tool-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=orange&color=#FFFF00)
+![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=JuptyerNotebookt&logoColor=orange&color=#FFFF00)
+![](https://img.shields.io/badge/Tool-Xcode-informational?style=flat&logo=Xcode10.14&logoColor=blue&color=#FFFF00)
 
 
 
