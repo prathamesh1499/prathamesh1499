@@ -3,7 +3,7 @@
 <!--
 **prathamesh1499/prathamesh1499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->
-My name is Prathamesh Joshi and I'm a Computer Science student. 
+My name is Prathamesh Joshi and I'm a Computer Science & Engineering student. 
 
 You can find me on [![LinkedIn][1.2]][1].
 
