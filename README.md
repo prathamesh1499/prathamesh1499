@@ -5,7 +5,7 @@
 <!-- Actual text -->
 My name is Prathamesh Joshi and I'm a Computer Science & Engineering student. 
 
-You can find me on [![LinkedIn][1.2]][1].
+You can find me on [![LinkedIn](https://img.shields.io/badge/Linkedin-blue.svg?logo=Linkedin)][1].
 
 ## Languages/Frameworks/Tools/Editors : Worked on 
 
