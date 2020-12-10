@@ -5,7 +5,7 @@
 <!-- Actual text -->
 My name is Prathamesh Joshi and I'm a Computer Science & Engineering student. 
 
-You can find me on [![](https://img.shields.io/badge/logo=LinkedIn)][1].
+You can find me on [![LinkedIn][1.2]][1].
 
 ## Languages/Frameworks/Tools/Editors : Worked on 
 
@@ -27,7 +27,6 @@ You can find me on [![](https://img.shields.io/badge/logo=LinkedIn)][1].
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/prathamesh-joshi-14899august/
