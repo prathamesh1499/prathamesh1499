@@ -31,4 +31,4 @@ You can find me on [![LinkedIn][1.2]][1].
 
 [1]: https://www.linkedin.com/in/prathamesh-joshi-14899august/
 
-[![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=prathamesh1499&show_icons=true&hide=prs)](https://github.com/prathamesh1499/github-readme-stats)
+<!--[![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=prathamesh1499&show_icons=true&hide=prs)](https://github.com/prathamesh1499/github-readme-stats)-->
