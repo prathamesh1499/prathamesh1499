@@ -7,7 +7,7 @@ My name is Prathamesh Joshi and I'm a Computer Science & Engineering student.
 
 You can find me on [![LinkedIn][1.2]][1].
 
-## Languages/Frameworks/Tools/Editors : Worked on 
+## Languages/Frameworks : Worked on 
 
 ![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
@@ -16,12 +16,7 @@ You can find me on [![LinkedIn][1.2]][1].
 ![HTML](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=orange&color=#FFFF00)
 ![CSS](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=CSS3&logoColor=blue&color=#FFFF00)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=#FFFFF0)
-
-![GoogleColab](https://img.shields.io/badge/GoogleColab-yellow.svg?logo=colab)
-![Jupyter](https://img.shields.io/badge/Jupyter-black.svg?logo=Jupyter)
-![Xcode](https://img.shields.io/badge/Xcode-black.svg?logo=Xcode)
-![VS Code](https://img.shields.io/badge/VSCode-blue.svg?logo=visual-studio-code)
-
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=black&color=#FFFFF0)
 
 
 <!-- Icons -->
