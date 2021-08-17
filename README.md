@@ -28,7 +28,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://github.com/prathamesh1499/prathamesh1499/blob/master/linkedin16x16.png
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/prathamesh-joshi-14899august/
