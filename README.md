@@ -8,9 +8,9 @@ My name is Prathamesh Joshi and I have recently graduated with a Bachelor of Eng
 You can find me on [![LinkedIn][1.2]][1].
 
 ## Languages/Frameworks : Worked on 
-
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 ![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
 ![PyTorch](https://img.shields.io/badge/Pytorch-1.2-informational?style=flat&logo=PyTorch&logoColor=red&color=#FFFF00)
 ![Swift](https://img.shields.io/badge/Swift-4-informational?style=flat&logo=Swift&logoColor=orange&color=#FFFF00)
 ![HTML](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=orange&color=#FFFF00)
