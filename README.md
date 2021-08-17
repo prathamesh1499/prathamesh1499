@@ -21,7 +21,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <table align="center">
   <tr>
-    <td>You are visitor</td>
+    <td>You are Visitor</td>
     <td><img src="https://profile-counter.glitch.me/prathamesh1499/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
