@@ -3,7 +3,7 @@
 <!--
 **prathamesh1499/prathamesh1499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->
-I have recently graduated with a Bachelor of Engineering - Computer Science & Engineering.  
+I have recently graduated with a Bachelor of Engineering - Computer Science & Engineering. - CGPA 9.07/10
 
 You can find me on [![LinkedIn][1.2]][1].
 
