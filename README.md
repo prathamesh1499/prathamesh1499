@@ -5,7 +5,12 @@
 <!-- Actual text -->
 I have recently graduated with a Bachelor of Engineering - Computer Science & Engineering. - CGPI 9.07/10
 
-You can find me on [![LinkedIn][1.2]][1].
+:zap: I love Statistics, Programming, Machine Learning and Football. <br>
+:four_leaf_clover: I am willing to learn new things and grow every day. <br>
+:speech_balloon: Ask me about DS | ML | DL | CV | and workout tips :zany_face:<br>
+:coffee: Sports fan ? Connect
+- :mailbox: You can find me on [![LinkedIn][1.2]][1]. 
+- or :e-mail: prathameshjoshi1499@gmail.com
 
 ## Languages/Frameworks : Worked on 
 
