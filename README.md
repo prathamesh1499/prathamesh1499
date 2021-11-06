@@ -10,7 +10,7 @@ I have recently graduated with a Bachelor of Engineering - Computer Science & En
 :speech_balloon: Ask me about DS | ML | DL | CV | and workout tips :zany_face:<br>
 :coffee: Sports fan ? Connect
 - :mailbox: You can find me on [![LinkedIn][1.2]][1]. 
-- or :e-mail: prathameshjoshi1499@gmail.com
+- :e-mail: prathameshjoshi1499@gmail.com
 
 ## Languages/Frameworks : Worked on 
 
