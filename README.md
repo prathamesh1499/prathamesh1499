@@ -3,9 +3,10 @@
 <!--
 **prathamesh1499/prathamesh1499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->
-I have recently graduated with a Bachelor of Engineering - Computer Science & Engineering. - CGPI 9.07/10
+I am currently pursuing my Master's Degree in Systems & Technology at McMaster University with a specialization in Automation and Smart Systems. 
+I also hold a Bachelor' of Engineering degree in Computer Science & Engineering. - CGPI 9.07/10 from the University of Mumbai. 
 
-:zap: I love Statistics, Programming, Machine Learning and Football. <br>
+:zap: I love Statistics, Programming, Machine Learning and Football/Soccer. <br>
 :four_leaf_clover: I am willing to learn new things and grow every day. <br>
 :speech_balloon: Ask me about DS | ML | DL | CV | and workout tips :zany_face:<br>
 :coffee: Sports fan ? Connect
