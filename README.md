@@ -11,7 +11,7 @@ I also hold a Bachelor' of Engineering degree in **Computer Science & Engineerin
 :speech_balloon: Ask me about DS | ML | DL | CV | and workout tips :zany_face:<br>
 :coffee: Sports fan ? Connect
 - :mailbox: You can find me on [![LinkedIn][1.2]][1]. 
-- :e-mail: prathameshjoshi1499@gmail.com
+- :e-mail: joship14@mcmaster.ca | prathameshjoshi1499@gmail.com
 
 ## Languages/Frameworks : Worked on 
 
