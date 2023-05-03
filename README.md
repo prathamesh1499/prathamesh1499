@@ -9,9 +9,10 @@ I also hold a Bachelor' of Engineering degree in **Computer Science & Engineerin
 :zap: I love Statistics, Programming, Machine Learning and Football/Soccer. <br>
 :four_leaf_clover: I am willing to learn new things and grow every day. <br>
 :speech_balloon: Ask me about DS | ML | DL | CV | and workout tips :zany_face:<br>
-:coffee: Sports fan ? Connect
+:coffee: Soccer fan ? Connect
 - :mailbox: You can find me on [![LinkedIn][1.2]][1]. 
 - :e-mail: joship14@mcmaster.ca | prathameshjoshi1499@gmail.com
+- [📂][2] Click on it to view some of my certifications.
 
 ## Languages/Frameworks : Worked on 
 
@@ -38,5 +39,5 @@ I also hold a Bachelor' of Engineering degree in **Computer Science & Engineerin
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/prathamesh-joshi-14899august/
-
+[2]: https://drive.google.com/drive/u/0/folders/1iTMB27JZimZ_rn3n_7ntC4sjgrUarYvU
 <!--[![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=prathamesh1499&show_icons=true&hide=prs)](https://github.com/prathamesh1499/github-readme-stats)-->
