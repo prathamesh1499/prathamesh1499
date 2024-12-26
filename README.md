@@ -18,15 +18,23 @@ I aim to harness data to drive insights and innovation, crafting models and algo
 
 ## Languages/Frameworks: Worked on 
 
-![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
-![Keras](https://img.shields.io/badge/Keras-2.3-informational?style=flat&logo=Keras&logoColor=red&color=#FFFF00)
-![PyTorch](https://img.shields.io/badge/Pytorch-1.2-informational?style=flat&logo=PyTorch&logoColor=red&color=#FFFF00)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&labelColor=white)
+![Static Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=TensorFlow&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Keras-%23D00000?style=flat&logo=Keras&logoColor=%23D00000&labelColor=white)
+![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=PyTorch&labelColor=white)
+![Static Badge](https://img.shields.io/badge/MySql-%234479A1?style=flat&logo=MySql&labelColor=white)
+![Static Badge](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat&logo=scikitlearn&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Databricks-%23FF3621?style=flat&logo=Databricks&l&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=Grafana&logoColor=%23F46800&labelColor=white)
+![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=%23150458&labelColor=white)
+
 ![Swift](https://img.shields.io/badge/Swift-4-informational?style=flat&logo=Swift&logoColor=orange&color=#FFFF00)
 ![HTML](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=orange&color=#FFFF00)
 ![CSS](https://img.shields.io/badge/CSS-3-informational?style=flat&logo=CSS3&logoColor=blue&color=#FFFF00)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=#FFFFF0)
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=black&color=#FFFFF0)
+
+
+
 
 <table align="center">
   <tr>
