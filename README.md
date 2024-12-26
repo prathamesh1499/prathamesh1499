@@ -3,18 +3,20 @@
 <!--
 **prathamesh1499/prathamesh1499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->
-I am pursuing my **Master's Degree in Systems & Technology** at **McMaster University** with a specialization in **Automation and Smart Systems**. <br>
-I also hold a Bachelor of Engineering degree in **Computer Science & Engineering**. - CGPI 9.07/10 from the University of Mumbai. 
+I graduated from **Master's Degree in Systems & Technology** with a specialization in **Automation and Smart Systems** from **McMaster University** in December 2024. <br>
+I also hold a Bachelor of Engineering degree in **Computer Science & Engineering**. - CGPI 9.07/10 from the **University of Mumbai**. 
+
+I aim to harness data to drive insights and innovation, crafting models and algorithms that solve complex problems and enhance decision-making processes. I aim to transform raw data into actionable strategies, ensuring that solutions are technically sound and aligned with business objectives.
 
 :zap: I love Statistics, Programming, Machine Learning and Football/Soccer. <br>
-:four_leaf_clover: I am willing to learn new things and grow every day. <br>
+:four_leaf_clover: I am willing to learn new things and grow daily. <br>
 :speech_balloon: Ask me about DS | ML | DL | CV | and workout tips :zany_face:<br>
 :coffee: Soccer fan ? Connect
 - :mailbox: You can find me on [![LinkedIn][1.2]][1]. 
 - :e-mail: prathameshjoshi1499@gmail.com
 - [📂][2] Click on it to view some of my certifications.
 
-## Languages/Frameworks : Worked on 
+## Languages/Frameworks: Worked on 
 
 ![Python](https://img.shields.io/badge/Python-3-informational?style=flat&logo=Python&logoColor=blue&color=#FFFF00)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2-informational?style=flat&logo=Tensorflow&logoColor=orange&color=#FFFF00)
@@ -38,6 +40,6 @@ I also hold a Bachelor of Engineering degree in **Computer Science & Engineering
 [1.2]: https://github.com/prathamesh1499/prathamesh1499/blob/master/linkedin16x16.png
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/prathamesh-joshi-14899august/
+[1]: https://www.linkedin.com/in/prathameshjoshi14/
 [2]: https://drive.google.com/drive/u/0/folders/1iTMB27JZimZ_rn3n_7ntC4sjgrUarYvU
 <!--[![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=prathamesh1499&show_icons=true&hide=prs)](https://github.com/prathamesh1499/github-readme-stats)-->
